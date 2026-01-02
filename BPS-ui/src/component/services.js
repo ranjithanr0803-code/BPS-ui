@@ -5,7 +5,7 @@ import CustomGrid from "./common/CustomGrid";
 import CustomSizeCard from "./common/CustomSizeCard";
 import CustomCard from "./common/CustomCard";
 // import image2 from'../images/image7.jpeg';
-import image7 from'../images/backgroundImg1.webp';
+import image7 from'../images/BC-prod-1.png';
 // import img5 from '../images/sglImg5.jpg';
 
 // ------------------------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ const Services = () => {
           backgroundImage={true}
           src={image7}
           height={400}
-            // backgroundColor="blue"
+            //  backgroundColor="black"
             //   title="Country"
             header="Types of Plates"
             content="Aluminium Name Plate, Electro Motor Name Plate, 
