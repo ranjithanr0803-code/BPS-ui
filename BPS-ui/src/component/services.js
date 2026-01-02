@@ -12,7 +12,7 @@ import image7 from'../images/BC-prod-1.png';
 const Services = () => {
   return (
     <>
-      <div 
+      <div  style={{backgroundColor:"#1E90FF"}}
       className="services navbar"
       >
      
